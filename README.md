@@ -154,6 +154,3 @@ Typical progression:
 
 These models are included for demonstration and replay purposes.
 
-## License
-
-MIT License.
